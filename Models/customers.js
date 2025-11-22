@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const customerSchema = new mongoose.Schema({
     name: {
         type:String,
-        reqired:true,
+        required:true,
         minlength:3,
         maxlength:50
     },
