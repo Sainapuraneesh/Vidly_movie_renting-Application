@@ -1,11 +1,8 @@
 //Lec 125
 const Joi=require('joi');
-const { required } = require('joi/lib/types/lazy');
-const { type } = require('joi/lib/types/object');
 const mongoose = require('mongoose');
 const jwt=require('jsonwebtoken');
 const config=require('config');
-const boolean = require('joi/lib/types/boolean');
 
 const userSchema = new mongoose.Schema({
     name: {

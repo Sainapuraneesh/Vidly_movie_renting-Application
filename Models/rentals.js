@@ -62,13 +62,12 @@ const Rental = mongoose.model('Rental', new mongoose.Schema({
   }
 }));
 
-
-function validateRental(rental) { //server receives customerId & movieId data from client for validating it
-  const schema = {
+function validateRental(rental) {  //server receives customerId & movieId data from client for validating it
+  const schema = Joi.object({
     customerId: Joi.objectId().required(), //lec 121👈
     movieId: Joi.objectId().required()
-  };
-  return Joi.validate(rental, schema);
+  });
+  return schema.validate(rental);
 }
 
 exports.Rental = Rental; 
