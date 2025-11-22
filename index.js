@@ -10,6 +10,6 @@ require('./startup/routes')(app); //calling function by passing app as an argume
 require('./startup/prod')(app);
 
 const port=process.env.PORT || 3000;
-const server = app.listen(port, ()=>{   winston.info(`Listening on port number ${port}...`);     }); //returns server object
+const server = app.listen(port, '0.0.0.0', ()=>{   winston.info(`Listening on port number ${port}...`);     }); //returns server object
 
 module.exports=server;
