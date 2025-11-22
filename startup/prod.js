@@ -1,5 +1,5 @@
 //lec-216
-const helmet = required('helmet');//returns mw function
+const helmet = require('helmet');//returns mw function
 const compression = require('compression');//returns mw function
 
 module.exports = function (app) {

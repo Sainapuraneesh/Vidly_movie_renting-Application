@@ -24,7 +24,7 @@
     "fawn": "^2.1.5",
     "helmet": "^8.1.0",
     "joi": "^13.1.0",
-    "joi-oid": "^1.1.2",
+    "joi-objectid": "^4.0.2",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "moment": "^2.30.1",

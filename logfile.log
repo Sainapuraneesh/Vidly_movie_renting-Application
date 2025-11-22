@@ -3395,3 +3395,33 @@ winston will log the error message here :
 {"level":"info","message":"FATAL ERROR: jwtPrivateKey is not defined"}
 {"level":"info","message":"required is not defined"}
 {"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"require(...) is not a function"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"JoiObjectId is not a function"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"require(...) is not a function"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Cannot find module 'joi-objectid'\nRequire stack:\n- C:\\web_dev_vscode\\backend_mosh\\p4express_vidly1\\startup\\validation.js\n- C:\\web_dev_vscode\\backend_mosh\\p4express_vidly1\\index.js"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not definedReferenceError: required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening on port number 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening on port number 3000..."}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
