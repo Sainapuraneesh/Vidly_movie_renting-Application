@@ -10,7 +10,7 @@ const boolean = require('joi/lib/types/boolean');
 const userSchema = new mongoose.Schema({
     name: {
         type:String,
-        reqired:true,
+        required:true,
         minlength:3,
         maxlength:50
     },
