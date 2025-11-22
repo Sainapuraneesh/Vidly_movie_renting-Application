@@ -3,10 +3,10 @@ const express=require('express');
 const app = express();
 
 require('./startup/logging')();//handles logging errors(printing errors),therefore I added it at top
-require('./startup/routes')(app); //calling function by passing app as an argument to it
-require('./startup/db')(); //calling for db connection
 require('./startup/config')();
+require('./startup/db')(); //calling for db connection
 require('./startup/validation')();
+require('./startup/routes')(app); //calling function by passing app as an argument to it
 require('./startup/prod')(app);
 
 const port=process.env.PORT || 3000;
