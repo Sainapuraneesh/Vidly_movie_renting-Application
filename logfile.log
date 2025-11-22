@@ -3392,3 +3392,6 @@ winston will log the error message here :
 {"level":"info","message":"connected to mongodb://localhost/vidly"}
 {"level":"info","message":"required is not defined"}
 {"level":"info","message":"connected to mongodb://localhost/vidly"}
+{"level":"info","message":"FATAL ERROR: jwtPrivateKey is not defined"}
+{"level":"info","message":"required is not defined"}
+{"level":"info","message":"connected to mongodb://localhost/vidly"}
