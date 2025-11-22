@@ -7,7 +7,7 @@ module.exports = function(){
     winston.add(new winston.transports.File({ filename: 'logfile.log' }));//means it only writes errors to logfile.log,not on the terminal.
     winston.add(new winston.transports.Console({ colorize: true, prettyPrint: true }));//this helps to write error meassage on the terminal.
     winston.add(new winston.transports.MongoDB({ 
-        db: config.get(db),
+        db: config.get('db'),
         level: 'info'
     }));//this creates new collection in database (called log) to store the error message.
     
