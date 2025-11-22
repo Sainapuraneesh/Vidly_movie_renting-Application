@@ -2,7 +2,6 @@ const Joi=require('joi');
 const express=require('express');
 const router = express.Router();
 const mongoose = require('mongoose');
-const boolean = require('joi/lib/types/boolean');
 const {Customer, validate, validatewhileupdate} = require('../Models/customers')
 
 
