@@ -1,4 +1,4 @@
-Node.js + Express + MongoDB + JWT architecture
+<img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 03_41_56 PM" src="https://github.com/user-attachments/assets/cccfbf83-6fa1-4c4e-b051-e5b9f91ffa81" />Node.js + Express + MongoDB + JWT architecture
 Production deployment on Render
 
 Vidly – Movie Rental Backend API
@@ -12,6 +12,7 @@ System Architecture
 ![Movie Rental Backend Architecture](./architecture.png)
 
 > Save the generated architecture image as `architecture.png` in the root folder before pushing to GitHub. **Paste image here--**
+<img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 03_41_56 PM" src="https://github.com/user-attachments/assets/8ef6c9fc-cd57-4e8e-807b-c8f41434c511" />
 
 ---
 
