@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 03_41_56 PM" src="https://github.com/user-attachments/assets/cccfbf83-6fa1-4c4e-b051-e5b9f91ffa81" />Node.js + Express + MongoDB + JWT architecture
+Node.js + Express + MongoDB + JWT architecture
 Production deployment on Render
 
 Vidly – Movie Rental Backend API
