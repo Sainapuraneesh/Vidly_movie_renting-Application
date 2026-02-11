@@ -9,8 +9,7 @@ Vidly is a production-ready Movie Rental Backend built using **Node.js, Express,
 
 **System Architecture**
 
-- Movie Rental Backend Architecture
-<img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 03_41_56 PM" src="https://github.com/user-attachments/assets/8ef6c9fc-cd57-4e8e-807b-c8f41434c511" />
+- Movie Rental Backend Architecture<img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 03_41_56 PM" src="https://github.com/user-attachments/assets/8ef6c9fc-cd57-4e8e-807b-c8f41434c511" />
 
 ---
 
