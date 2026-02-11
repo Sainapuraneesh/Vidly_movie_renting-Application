@@ -111,13 +111,13 @@ Implements domain-specific logic.
 
 * Create and manage genres
 
-👤 Users
+👤 **Users**
 
 * Register users
 * Hash passwords using bcrypt
 * Generate JWT token
 
-📦 Rentals
+📦 **Rentals**
 
 * Validate customer
 * Validate movie availability
@@ -161,7 +161,7 @@ Database accessed via **Mongoose ORM**.
 
 ---
 
-🔐 Authentication Flow (JWT Based)
+🔐 **Authentication Flow** (JWT Based)
 
 1. User registers
 2. Password hashed using bcrypt
@@ -182,7 +182,7 @@ x-auth-token: <JWT_TOKEN>
 
 ---
 
-🔄 Rental Transaction Flow
+🔄 **Rental Transaction Flow**
 
 ```
 Client → POST /api/rentals
@@ -202,7 +202,7 @@ Return JSON response
 
 ---
 
-🔁 Request Lifecycle
+🔁 **Request Lifecycle**
 
 ```
 Client Request
