@@ -7,11 +7,9 @@ Vidly – Movie Rental Backend API
 
 Vidly is a production-ready Movie Rental Backend built using **Node.js, Express, and MongoDB**, implementing secure authentication, modular architecture, and scalable RESTful design principles.
 
-System Architecture
+**System Architecture**
 
-[Movie Rental Backend Architecture](./architecture.png)
-
-> Save the generated architecture image as `architecture.png` in the root folder before pushing to GitHub. **Paste image here--**
+- Movie Rental Backend Architecture
 <img width="1536" height="1024" alt="ChatGPT Image Feb 11, 2026, 03_41_56 PM" src="https://github.com/user-attachments/assets/8ef6c9fc-cd57-4e8e-807b-c8f41434c511" />
 
 ---
