@@ -250,7 +250,7 @@ vidly/
 
 ---
 
-🚀 **Deployment Architecture**
+**Deployment Architecture**
 
 * Hosted on: Render
 * Node.js production server
@@ -260,7 +260,7 @@ vidly/
 
 ---
 
-🧠 **Architectural Patterns Used**
+**Architectural Patterns Used**
 
 ✔ Layered Architecture
 ✔ RESTful API Design
@@ -271,7 +271,7 @@ vidly/
 
 ---
 
-📈 **Scalability Considerations**
+**Scalability Considerations**
 
 * Stateless JWT authentication
 * Cloud-hosted database
@@ -281,7 +281,7 @@ vidly/
 
 ---
 
-🎯 **Why This Architecture?**
+**Why This Architecture?**
 
 * Clean separation of responsibilities
 * Interview-ready backend design
